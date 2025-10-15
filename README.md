@@ -162,10 +162,4 @@ This project is licensed under the **MIT License** — feel free to modify and u
 **Uday Raut**
 Founder — [Hacker Bytez](https://www.hackerbytez.com)
 📧 [hackerbytez128@gmail.com](mailto:hackerbytez128@gmail.com)
-
-```
-
----
-
-Would you like me to include an example `.env` file template (so users can just rename and use it)?
-```
+ 
